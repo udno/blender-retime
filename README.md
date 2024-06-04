@@ -13,7 +13,7 @@ The retime value represents the frame displayed, so you can keyframe it to be an
 ## Known Issues
 
 - Video textures or anything that plays not based on keyframes will not work (yet).
-- The first time you add to Velo, it might have Velocity enabled even if it is unchecked.
+- The first time you click "add to Velo", it might have Velocity enabled even if it is unchecked.
 - If NLA tracks are in use, the retime might not work. I recommend backing up the scene and baking the actions.
 
 ## Bugs
