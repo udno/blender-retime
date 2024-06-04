@@ -14,5 +14,5 @@
 - **Initial Velocity Toggle:** On the first use, the "Add to Velo" function may have Velocity enabled even if the checkbox is unchecked.
 - **NLA Tracks:** If NLA (Non-Linear Animation) tracks are in use, retiming may not work as expected. It is recommended to back up your scene and bake actions before using the addon.
 
-## Bug Reporting
+## Bugs
 This addon is in active development, and bugs are to be expected. Please report any issues encountered to help improve the addon.
