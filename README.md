@@ -1,4 +1,4 @@
-# Blender-Retime
+# blender-retime
 
 A Blender addon to retime animations and scenes.
 
