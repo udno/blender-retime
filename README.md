@@ -1,7 +1,7 @@
 # blender-retime
 
 ## Overview
-**Blender-Retime** is a Blender addon designed to facilitate the retiming of animations and scenes.
+**blender-retime** is a Blender addon designed to facilitate the retiming of animations and scenes.
 
 ## Usage Instructions
 1. **Select Objects:** Select all the objects you want to retime.
